@@ -23,13 +23,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:8px;">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="youtube logo" />
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank" rel="noopener noreferrer" style="margin-left:8px; text-decoration:none;">
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:8px;">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord logo" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-left:8px; text-decoration:none;">
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
   </a>
 </div>
